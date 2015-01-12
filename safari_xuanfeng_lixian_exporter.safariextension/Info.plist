@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Author</key>
+	<string>Song Chenwen</string>
+	<key>Builder Version</key>
+	<string>10600.2.5</string>
+	<key>CFBundleDisplayName</key>
+	<string>XuanfengLixianExporter</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.songchenwen.safarixuanfenglixianexporter</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.1</string>
+	<key>CFBundleVersion</key>
+	<string>1</string>
+	<key>Chrome</key>
+	<dict/>
+	<key>Content</key>
+	<dict>
+		<key>Scripts</key>
+		<dict>
+			<key>End</key>
+			<array>
+				<string>injector.js</string>
+			</array>
+		</dict>
+	</dict>
+	<key>Description</key>
+	<string>Export XuanFeng Lixian to Aria2</string>
+	<key>DeveloperIdentifier</key>
+	<string>893664KW86</string>
+	<key>ExtensionInfoDictionaryVersion</key>
+	<string>1.0</string>
+	<key>Permissions</key>
+	<dict>
+		<key>Website Access</key>
+		<dict>
+			<key>Allowed Domains</key>
+			<array>
+				<string>lixian.qq.com</string>
+			</array>
+			<key>Include Secure Pages</key>
+			<true/>
+			<key>Level</key>
+			<string>Some</string>
+		</dict>
+	</dict>
+	<key>Website</key>
+	<string>http://songchenwen.github.io/tech/2015/01/12/safari-xuanfeng-lixian-exporter/</string>
+</dict>
+</plist>
